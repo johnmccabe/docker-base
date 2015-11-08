@@ -12,6 +12,7 @@ RUN apt-get update && \
         libffi-dev \
         libxml2-dev \
         libxslt1-dev \
+        libjpeg-dev \
         git \
         zlib1g-dev \
         libssl-dev && \
